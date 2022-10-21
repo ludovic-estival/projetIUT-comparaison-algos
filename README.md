@@ -1,2 +1,2 @@
 # projetIUT-comparaison-algos
-Comparaisons d'algorithmes
+Comparaisons d'algorithmes (sae du S2)
